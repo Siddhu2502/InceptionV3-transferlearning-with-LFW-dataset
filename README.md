@@ -17,5 +17,9 @@ The model is here tuned to classify the LFW dataset. The model is trained to cla
 # Results
 Eventhough a low accuracy value of 43% is achieved on the dataset training it for more time and fine tuning the model will give us accuracy over 90% this 43% accuracy was achieved in just 21 hours of training on a GPU P100. The model can be trained for more time on a GPU to achieve better results. 
 
+⚠️ Model update ahead!!⚠️
+
+So eventually the model got its update from 21 hours of training time to give just 40% of accuracy to less than 15 min of training to give 70% of validation accuracy and more than 90% training accuracy !!! 🥳🥳💃
+
 # Help 
 I am actively seeking feedback and suggestions to fine-tune this project and improve its performance. If you have experience with transfer learning, facial recognition, or the InceptionV3 model, your insights would be greatly appreciated. Please feel free to open an issue or submit a pull request with your suggestions. Thank you for your help in making this project even better! 😊😊
