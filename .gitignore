@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# other files
+Beginner's Guide: Transfer Learning with InceptionV3 and LFW Dataset.ipynb
+
 # C extensions
 *.so
 
